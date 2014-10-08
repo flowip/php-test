@@ -3,7 +3,7 @@
     echo '2';
     echo '2';
     echo '2';
-    echo '2';
+    echo '2';;
     
     function a () {
         return true;
